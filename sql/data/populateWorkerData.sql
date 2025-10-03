@@ -1,0 +1,10 @@
+    Ivanova Hanna, 1980-11-01, Middle, 7500
+    Grigorov Pavlo, 1988-04-23, Middle, 7800
+    Bojko Igor, 1999-05-07, Trainee, 990
+    Petrenko Olena, 1994-03-03, Junior, 3000
+    Shevchenko Ivan, 2001-10-15, Junior, 2700
+    Borysenko Maksim, 1975-09-30, Senior, 9500
+    Velichko Nadija, 1979-11-10, Senior, 9500
+    Fisher Matias, 1985-12-16, Middle, 7200
+    Berger Mariela, 1996-01-29, Middle, 7000
+    Miller Tomas, 2003-08-05, Trainee, 950

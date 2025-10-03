@@ -1,11 +1,11 @@
-package org.example.dto;
+package org.example.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class ProjectDuration {
+public class ProjectPrice {
     private String name;
-    private int duration;
+    private int price;
 }

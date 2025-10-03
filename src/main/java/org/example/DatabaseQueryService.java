@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.dto.*;
+import org.example.model.*;
 
 import java.nio.file.Path;
 import java.sql.Connection;

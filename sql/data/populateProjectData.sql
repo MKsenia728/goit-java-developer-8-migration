@@ -1,0 +1,10 @@
+    1, Project Globus 1, 2019-01-30, 2026-05-01
+    2, Project Kosmos 1, 2019-05-22, 2019-12-20
+    2, Project Kosmos 2, 2023-02-10, 2025-01-15
+    5, Project Trio 1, 2020-03-01, 2024-06-20
+    3, Project Sinus 1, 2021-12-20, 2023-05-20
+    5, Project Trio 2, 2022-09-01, 2025-04-25
+    4, Project Magnat 1, 2018-05-10, 2021-03-04
+    4, Project Magnat 2, 2025-08-22, 2025-12-10
+    1, Project Globus 2, 2025-09-04, 2027-07-01
+    2, Project Kosmos 1, 2025-09-20, 2026-03-10

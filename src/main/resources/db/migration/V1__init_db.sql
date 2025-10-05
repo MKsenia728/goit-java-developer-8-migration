@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS worker (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(1000) 
+    name VARCHAR(1000)
         NOT NULL
         CHECK (LENGTH(name) BETWEEN 2 AND 1000),
     birthday DATE
@@ -13,16 +13,16 @@ CREATE TABLE IF NOT EXISTS worker (
 
 CREATE TABLE IF NOT EXISTS client (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(1000) 
+    name VARCHAR(1000)
         NOT NULL
         CHECK (LENGTH(name) BETWEEN 2 AND 1000));
 
 CREATE TABLE IF NOT EXISTS project (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
     client_id BIGINT,
-    name VARCHAR(50), 
+    name VARCHAR(50),
     start_date DATE,
-    finish_date DATE 
+    finish_date DATE
         CHECK (finish_date > start_date),
     FOREIGN KEY (client_id) REFERENCES client(id));
 

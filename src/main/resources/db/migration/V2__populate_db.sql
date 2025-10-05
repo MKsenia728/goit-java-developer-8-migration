@@ -1,4 +1,4 @@
-INSERT INTO worker (name, birthday, level, salary) VALUES 
+INSERT INTO worker (name, birthday, level, salary) VALUES
     ('Ivanova Hanna', '1980-11-01', 'Middle', 7500),
     ('Grigorov Pavlo', '1988-04-23', 'Middle', 7800),
     ('Bojko Igor', '1999-05-07', 'Trainee', 990),
@@ -53,4 +53,3 @@ INSERT INTO project_worker (project_id, worker_id) VALUES
     (9, 2),
     (10, 5),
     (10, 4);
-
